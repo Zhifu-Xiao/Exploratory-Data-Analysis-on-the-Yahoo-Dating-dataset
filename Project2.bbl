@@ -1,0 +1,34 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Joyner and Kao(2005)]{joyner2005interracial}
+Kara Joyner and Grace Kao.
+\newblock Interracial relationships and the transition to adulthood.
+\newblock \emph{American Sociological Review}, 70\penalty0 (4):\penalty0
+  563--581, 2005.
+
+\bibitem[Kurzban and Weeden(2007)]{kurzban2007advertised}
+Robert Kurzban and Jason Weeden.
+\newblock Do advertised preferences predict the behavior of speed daters?
+\newblock \emph{Personal Relationships}, 14\penalty0 (4):\penalty0 623--632,
+  2007.
+
+\bibitem[Pitzer et~al.(2009)Pitzer, Viboud, Simonsen, Steiner, Panozzo, Alonso,
+  Miller, Glass, Glasser, Parashar, et~al.]{pitzer2009demographic}
+Virginia~E Pitzer, C{\'e}cile Viboud, Lone Simonsen, Claudia Steiner,
+  Catherine~A Panozzo, Wladimir~J Alonso, Mark~A Miller, Roger~I Glass, John~W
+  Glasser, Umesh~D Parashar, et~al.
+\newblock Demographic variability, vaccination, and the spatiotemporal dynamics
+  of rotavirus epidemics.
+\newblock \emph{Science}, 325\penalty0 (5938):\penalty0 290--294, 2009.
+
+\bibitem[Robnett and Feliciano(2011)]{robnett2011patterns}
+Belinda Robnett and Cynthia Feliciano.
+\newblock Patterns of racial-ethnic exclusion by internet daters.
+\newblock \emph{Social Forces}, 89\penalty0 (3):\penalty0 807--828, 2011.
+
+\end{thebibliography}
